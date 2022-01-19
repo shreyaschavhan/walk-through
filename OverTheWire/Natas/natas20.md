@@ -147,3 +147,4 @@ Password: IFekPyrQXftziDEsUr3x21sYuahypdgJ</pre>
 ## 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠
 
 - `%0A` - is url encoding for newline character `\n`
+- 
